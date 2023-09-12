@@ -7,17 +7,16 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=vaishnav009 &style=flat-square&color=blue" alt=""/>
-<h1>
+<h1 align="center">
   Hey there, I'm Vaishnav Kolte
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<b align="center">A passionate data enthusiast with an insatiable curiosity for uncovering insights and patterns hidden within datasets. Committed to leveraging data-driven solutions to tackle complex challenges and drive informed decision-making. Proficient in data analysis, visualization, and eager to explore the limitless possibilities of data science.</b>
 
-### 🧔: About Me :
-A Data Enthusiast, who values Data; knowing the potential of it and the value it can bring-in to the business.
-
+### 🧔 About Me :
 🔭 I’m currently working as a Data Engineer at Principal Global Services.
 
 👯 I’m looking to collaborate on Big Data projects.
