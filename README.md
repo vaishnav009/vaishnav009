@@ -17,6 +17,7 @@
 
 ### 🧔: About Me :
 A Data Enthusiast, who values Data; knowing the potential of it and the value it can bring-in to the business.
+
 🔭 I’m currently working as a Data Engineer at Principal Global Services.
 
 👯 I’m looking to collaborate on Big Data projects.
