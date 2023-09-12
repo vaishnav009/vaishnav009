@@ -17,7 +17,7 @@
 <b align="center">A passionate data enthusiast with an insatiable curiosity for uncovering insights and patterns hidden within datasets. Committed to leveraging data-driven solutions to tackle complex challenges and drive informed decision-making. Proficient in data analysis, visualization, and eager to explore the limitless possibilities of data science.</b>
 
 ### 🧔 About Me :
-🔭 I’m currently working as a Data Engineer at Principal Global Services.
+🔭 I’m currently working as a Cloud Data Engineer at Principal Global Services.
 
 👯 I’m looking to collaborate on Big Data projects.
 
