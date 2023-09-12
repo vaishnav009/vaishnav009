@@ -27,6 +27,9 @@
 
 📫 How to reach me vaishnavkolte123@gmail.com
 
+📁 Well, if you have reached till here, you might want to have look into my resume. It has all the details about me and yes it also has what you are looking for.
+Its worth a shot. Get my resume <a href="https://github.com/vaishnav009/resume/blob/master/Vaishnav_Kolte_Resume.pdf">here.</a>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -38,6 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 <!--
 **vaishnav009/vaishnav009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
