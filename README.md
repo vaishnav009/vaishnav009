@@ -1,31 +1,46 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vaishnav-kolte/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <img src="https://komarev.com/ghpvc/?username=vaishnav009 &style=flat-square&color=blue" alt=""/>
 <h1 align="center">
   Hey there, I'm Vaishnav Kolte
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2 align="center">
+  🚀 Data Engineer - Python | ETL | AWS | Big Data | SQL 🚀
+</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<b align="center">A passionate data enthusiast with an insatiable curiosity for uncovering insights and patterns hidden within datasets. Committed to leveraging data-driven solutions to tackle complex challenges and drive informed decision-making. Proficient in data analysis, visualization, and eager to explore the limitless possibilities of data science.</b>
+<b align="center">A results-driven Data Engineer with expertise in designing and implementing efficient, scalable data solutions. Proficient in Python, ETL processes, and cloud platforms (AWS). Specialized in crafting robust data pipelines using Hadoop, Spark, and other Big Data technologies.</b>
+<div align='center'>
+          ----------------       
+</div>
+🔧 Key Skills:
 
-### 🧔 About Me :
-🔭 I’m currently working as a Cloud Data Engineer at Principal Global Services.
+- Programming Languages: Python, SQL, PySpark, Pandas, Pytest
+- Big Data: Hadoop, Apache Spark, Kafka, Hive, Airflow
+- Cloud Computing: AWS (Redshift, Lambda, Glue, S3, IAM), Azure, Google Cloud
+- Tools: Git, Informatica ETL, Data Warehousing, SQL Server, GitHub Actions
 
-👯 I’m looking to collaborate on Big Data projects.
+💼 Professional Experience:
+- Cloud Data Engineer at Principal Global Services, Pune, India
+- Data Engineer at Principal Global Services, Pune, India
 
-💬 Ask me about Data Engineering, Data Science, Machine Learning or anything that involves data. ### 😉
+🎓 Education:
+- Bachelor's in Computer Science, Yeshwantrao Chavan College of Engineering, Nagpur, India
 
-⚡ Fun fact Forever the guy who gets excited over sports and video games. ### 🏈
+🏆 Certification:
+- AWS Certified Developer – Associate (DVA-C02)
 
-📫 How to reach me vaishnavkolte123@gmail.com
+📂 Projects:
+- <a href="https://github.com/vaishnav009/change_data_capture">Change Data Capture Pipeline</a>
+- <a href="https://github.com/vaishnav009/covid_data_analysis_aws">Covid Data Analysis</a>
+- <a href="https://github.com/vaishnav009/youtube_data_airflow_project">YouTube Data Analysis</a>
+- <a href="https://github.com/vaishnav009/stock_market_data_analysis_kafka_project">Stock Market Data Analysis</a>
+- <a href="https://github.com/vaishnav009/olympic_data_azure_project">Olympic Data Anlysis</a>
+
+📫 How to reach me vaishnavkolte123@gmail.com | <a href="https://www.linkedin.com/in/vaishnav-kolte/">LinkedIn </a>
+
+
+<b>Let's connect and collaborate on innovative data solutions!</b>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
