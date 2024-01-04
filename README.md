@@ -39,7 +39,9 @@
 - <a href="https://github.com/vaishnav009/covid_data_analysis_aws">Covid Data Analysis</a>
 - <a href="https://github.com/vaishnav009/youtube_data_airflow_project">YouTube Data Analysis</a>
 - <a href="https://github.com/vaishnav009/stock_market_data_analysis_kafka_project">Stock Market Data Analysis</a>
-- <a href="https://github.com/vaishnav009/olympic_data_azure_project">Olympic Data Anlysis</a>
+- <a href="https://github.com/vaishnav009/olympic_data_azure_project">Olympic Data Analysis</a>
+
+🧑🏻‍🏫 LeetCode <a href="https://leetcode.com/vaishnavkolte123/">Profile</a>
 
 📫 How to reach me vaishnavkolte123@gmail.com | <a href="https://www.linkedin.com/in/vaishnav-kolte/">LinkedIn </a>
 
