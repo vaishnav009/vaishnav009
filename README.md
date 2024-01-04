@@ -17,8 +17,8 @@
 
 - Programming Languages: Python, SQL, PySpark, Pandas, Pytest
 - Big Data: Hadoop, Apache Spark, Kafka, Hive, Airflow
-- Cloud Computing: AWS (Redshift, Lambda, Glue, S3, IAM), Azure, Google Cloud
-- Tools: Git, Informatica ETL, Data Warehousing, SQL Server, GitHub Actions
+- Cloud Computing: AWS (Redshift, Lambda, Glue, S3, IAM)
+- Tools: Git, Informatica ETL, Data Warehousing, Data Modelling, SQL Server, GitHub Actions
 
 💼 Professional Experience:
 - Cloud Data Engineer at Principal Global Services, Pune, India
@@ -29,6 +29,10 @@
 
 🏆 Certification:
 - AWS Certified Developer – Associate (DVA-C02)
+- Udemy Certificate of Completion - Apache Spark
+- Udemy Certificate of Completion - Apache Airflow
+- Pluralsight Certificate of Completion - Apache Kafka
+- Udemy Certificate of Completion - Apache Hive
 
 📂 Projects:
 - <a href="https://github.com/vaishnav009/change_data_capture">Change Data Capture Pipeline</a>
